@@ -1,5 +1,9 @@
 # Beam Prediction
 
+> **Research fork maintained by Rifat Bin Reza.** I contributed to the collaborative beam-prediction research associated with this project. The related manuscript has been submitted to **IEEE Transactions on Vehicular Technology**.
+>
+> **Upstream:** [shovo896/beam-prediction](https://github.com/shovo896/beam-prediction). This fork preserves the original code, commit history, and license. Submission status does not imply acceptance or publication.
+
 Experiments for beam prediction using camera images, positional/tabular
 features, and deep-learning models.
 
