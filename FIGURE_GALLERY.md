@@ -1,7 +1,6 @@
 # Beam Prediction Figure Gallery
 
-All figures below use the final saved test metrics. The image-model figures use
-the refined checkpoint result (Top-1: 88.32%), not the initial 87.62% result.
+These are historical baseline figures, not CAFormer fusion results or a verified manuscript table. Summary charts use recorded values from the existing comparison report and plotting script. The refined image value is 88.32%; the diagnostic image chart preserves the initial 87.62% result. Cross-study charts show different experimental protocols and do not establish controlled superiority. See [results and reproducibility](docs/RESULTS.md).
 Run `python generate_ieee_comparison_figure.py` to regenerate every figure.
 
 ## Complete Findings and Reference Comparison
@@ -57,3 +56,8 @@ The initial image-model chart is a pre-refinement result.
 ### Position-Family Comparison
 
 ![Position-family test accuracy comparison](figures/notebook_diagnostics/position_modality_test_accuracy_comparison.png)
+
+
+## Web previews
+
+Gallery images are compact PNG previews. Original diagnostics remain embedded in the notebook. After generating the PNGs with the two commands above, run `python results/prepare_web_gallery.py` to refresh these previews.

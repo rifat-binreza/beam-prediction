@@ -1,0 +1,5 @@
+modality,top1_percent,top2_percent,top3_percent,top5_percent,provenance
+Position,57.5944,82.0018,91.9227,97.8051,saved_notebook_outputs
+Position + Height,69.7103,89.0255,95.1712,99.0342,saved_notebook_outputs
+Position + Height + Distance,74.1879,89.9912,96.0492,98.9464,saved_notebook_outputs
+Refined ResNet-50 image,88.3231,97.8051,99.5610,99.8244,existing_comparison_report_and_plot_script

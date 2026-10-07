@@ -1,0 +1,12 @@
+# Inferred from reviewed imports; not an original environment lockfile.
+numpy
+pandas
+torch
+torchvision
+scikit-learn
+scikit-image
+matplotlib
+seaborn
+Pillow
+tqdm
+jupyterlab

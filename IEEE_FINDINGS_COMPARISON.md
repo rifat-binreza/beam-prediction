@@ -164,3 +164,4 @@ A. Alkhateeb, "Towards real-world 6G drone communication: Position and camera
 aided beam prediction," in *Proc. IEEE Global Communications Conf.
 (GLOBECOM)*, 2022, pp. 2951--2956, doi:
 10.1109/GLOBECOM48099.2022.10000718.
+
